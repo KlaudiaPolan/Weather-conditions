@@ -1,0 +1,62 @@
+html {
+    background-image: url("../images/adam-grabek-28280.jpg");
+    background-size:100%;
+
+    background-repeat: no-repeat;
+    font-family: 'Lobster Two', cursive;
+}
+body {
+    min-height: 400px;
+    max-width: 500px;
+    background: rgba(69,90,100,0.9);
+    margin: 50px auto;
+    color: white;
+    font-family: Arial, sans-serif;
+    border-radius: 20px;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 8px;
+}
+
+h1,p{
+  text-align: center;
+  font-weight: 200;
+}
+p{
+  font-size: 24px;
+  padding: 0;
+  margin: 0;
+}
+.temp{
+  display: flex;
+  font-size: 24px;
+  font-weight: 200;
+}
+.icon{
+  margin-top: -3px;
+}
+.main-info{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+}
+ul {
+    background: lightgrey;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    color: black;
+
+    text-align: center;
+    border-top: 1px solid white;
+}
+
+p:last-child{
+  font-size: 15px;
+  margin-top: 25%;
+}
