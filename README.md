@@ -1,4 +1,4 @@
-Preview link: https://klaudiapolan.github.io/weather%20conditions/
+Preview link: https://klaudiapolan.github.io/weather-conditions/
 This website shows weather conditions in Katowice.
 The information comes from http://openweathermap.org.
 
