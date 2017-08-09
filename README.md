@@ -1,5 +1,6 @@
 Preview link: https://klaudiapolan.github.io/weather-conditions/
-This website shows weather conditions in Katowice. It uses an API key.
+This website shows weather conditions in Katowice.
+It uses the API key.
 The information comes from http://openweathermap.org.
 
 Used languages and technologies:
